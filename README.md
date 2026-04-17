@@ -20,9 +20,12 @@ This repository contains the operational toolkit, datasets, and manual for rapid
 ## Documentation & Tutorials
 Please refer to the `Lindenschmidt_user manual.pdf` included in this repository for a comprehensive, step-by-step guide.
 
-### Video Tutorials
-*(Note: Video files are hosted externally due to size limits)*
-* [0] Slide deck and outline
+### Video Tutorials & Slide Decks
+The step-by-step video tutorials and accompanying slide decks for this toolkit are hosted on Zenodo due to file size limits. They have been assigned a formal DOI for academic reference.
+
+(https://doi.org/10.5281/zenodo.19636626)
+
+**Contents included in the Zenodo repository:**
 * [1] Rating curves (conceptual)
 * [2] Site description (Fort Simpson)
 * [3] Rating curves (Fort Simpson gauge data)
@@ -36,3 +39,4 @@ Please refer to the `Lindenschmidt_user manual.pdf` included in this repository 
 
 ## License
 This project is provided "as is" without warranty of any kind. Please refer to the user manual for full disclaimers.
+
