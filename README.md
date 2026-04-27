@@ -40,3 +40,6 @@ The step-by-step video tutorials and accompanying slide decks for this toolkit a
 ## Disclaimer
 Please note, this user manual and its associated videos, data sets and coding scripts, are the product of an applied science endeavour. The methodologies used in generating the research results contained herein are novel, and further testing is required to verify the methodology’s robustness. While every effort has been made to ensure the accuracy and completeness of the information contained herein, neither the authors nor the University of Saskatchewan make any guarantee, nor do they assume any liability for any errors or omissions. The information provided is on an 'as is' basis and the authors and University of Saskatchewan disclaim all warranties, express or implied, including but not limited to, implied warranties of merchantability or fitness for a particular purpose.
 
+## Acknowledgements:
+
+Funding for this project was provided by the Government of Northwest Territories and the Government of Canada, under the Flood Hazard Identification and Mapping Program (FHIMP); fund number 1-427286-1323-8000.
